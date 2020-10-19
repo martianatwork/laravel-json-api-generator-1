@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^6.13",
+        "illuminate/support": "^6.13 | ^7.0 | ^8.0",
         "laracasts/flash": "~3.0"
     },
     "require-dev": {
